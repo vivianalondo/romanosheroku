@@ -26,7 +26,7 @@ SECRET_KEY = 't^yjc5y-6d&5%pd*)$671bgj%-0yos*+$_op!ec1on)r!$tmt_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['enigmatic-ocean-62354.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
